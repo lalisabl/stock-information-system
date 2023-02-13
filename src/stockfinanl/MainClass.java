@@ -1,4 +1,6 @@
 /*
+JAVA GROUP PROJECT
+TITLE: STOCK INFORMATION SYSTEM
 Roll_No      Group Member Name                           ID_Number
 1           LALISA    BULA                                Ru2359/13
 2           KUMA      LETA                                Ru2440/13
